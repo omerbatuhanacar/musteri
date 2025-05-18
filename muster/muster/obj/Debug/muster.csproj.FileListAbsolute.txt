@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\muster\muster\bin\Debug\muster.exe.config
+C:\Users\msi-nb\Desktop\projeler\muster\muster\bin\Debug\muster.exe
+C:\Users\msi-nb\Desktop\projeler\muster\muster\bin\Debug\muster.pdb
+C:\Users\msi-nb\Desktop\projeler\muster\muster\obj\Debug\muster.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\muster\muster\obj\Debug\muster.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\muster\muster\obj\Debug\muster.exe
+C:\Users\msi-nb\Desktop\projeler\muster\muster\obj\Debug\muster.pdb
